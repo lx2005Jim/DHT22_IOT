@@ -1,0 +1,25 @@
+C:\Users\lx200\AppData\Local\Temp\VMBuilds\DHT22_IOT\esp8266_wifiduino\Release\Hash\sha1\sha1.c.o: \
+ D:\Arduino\hardware\esp8266\esp8266\libraries\Hash\src\sha1\sha1.c \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/stdio.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/newlib.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/config.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/features.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/reent.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/_ansi.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/_types.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/machine/_types.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/lock.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/types.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/machine/types.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/stdio.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/string.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/string.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/stdint.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ D:\Arduino\hardware\esp8266\esp8266/tools/sdk/include/c_types.h \
+ D:\Arduino\hardware\esp8266\esp8266\libraries\Hash\src\sha1\sha1.h
